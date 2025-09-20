@@ -30,30 +30,30 @@ namespace Lesson_1.Controllers
             .ToArray();
         }
 
-        //    [HttpGet("check-header")]
-        //    public string CheckHeader([FromHeader(Name = "User-Agent")] string userAgent)
-        //    {
-        //        return $"Ваш User-Agent: {userAgent}";
-        //    }
+//    [HttpGet("check-header")]
+//    public string CheckHeader([FromHeader(Name = "User-Agent")] string userAgent)
+//    {
+//        return $"Р’Р°С€ User-Agent: {userAgent}";
+//    }
 
-        //    [HttpGet("search")]
-        //    public string Search([FromQuery] string query, [FromQuery] int page = 1)
-        //    {
-        //        return $"Поиск: {query}, страница {page}";
-        //    }
+//    [HttpGet("search")]
+//    public string Search([FromQuery] string query, [FromQuery] int page = 1)
+//    {
+//        return $"РџРѕРёСЃРє: {query}, СЃС‚СЂР°РЅРёС†Р° {page}";
+//    }
 
-        //    [HttpPost("add-user")]
-        //    public string AddUser([FromBody] UserDto user)
-        //    {
-        //        return $"Добавлен пользователь {user.Name}, возраст {user.Age}";
-        //    }
-        //}
+//    [HttpPost("add-user")]
+//    public string AddUser([FromBody] UserDto user)
+//    {
+//        return $"Р”РѕР±Р°РІР»РµРЅ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ {user.Name}, РІРѕР·СЂР°СЃС‚ {user.Age}";
+//    }
+//}
 
-        //public class UserDto
-        //{
-        //    public string Name { get; set; }
-        //    public string Age { get; set; }
-        //}
+//public class UserDto
+//{
+//    public string Name { get; set; }
+//    public string Age { get; set; }
+//}
 
         [HttpGet("{days}")]
         public IEnumerable<WeatherForecast> GetWithDays([FromRoute] int days)
@@ -81,7 +81,7 @@ namespace Lesson_1.Controllers
         public string CheckHeader([FromHeader(Name = "X-Client")] string client)
         {
             Response.Headers["X-Echo-Client"] = client ?? "unkhow";
-            return $"Запрос пришел от клиента: {client}";
+            return $"Г‡Г ГЇГ°Г®Г± ГЇГ°ГЁГёГҐГ« Г®ГІ ГЄГ«ГЁГҐГ­ГІГ : {client}";
         }
     }
     public class WeatherForecast
@@ -95,5 +95,6 @@ namespace Lesson_1.Controllers
         public string? Summary { get; set; }
     }
 }
+
 
 
