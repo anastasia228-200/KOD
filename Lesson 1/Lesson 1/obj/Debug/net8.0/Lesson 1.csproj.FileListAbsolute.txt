@@ -1,0 +1,35 @@
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\appsettings.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson 1.staticwebassets.endpoints.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson 1.exe
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson 1.deps.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson 1.runtimeconfig.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson 1.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Lesson 1.pdb
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.csproj.AssemblyReference.cache
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.AssemblyInfoInputs.cache
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.AssemblyInfo.cs
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\scopedcss\bundle\Lesson 1.styles.css
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.csproj.Up2Date
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\refint\Lesson 1.dll
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.pdb
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\Lesson 1.genruntimeconfig.cache
+C:\Users\omnip\source\repos\Lesson 1\Lesson 1\obj\Debug\net8.0\ref\Lesson 1.dll
