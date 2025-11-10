@@ -203,3 +203,4 @@ C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\Tes
 C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.genruntimeconfig.cache
 C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\ref\TestingPlatform.dll
 C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform\obj\Debug\net8.0\TestingPlatform.sourcelink.json

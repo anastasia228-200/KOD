@@ -17,3 +17,4 @@ C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\D
 C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.pdb
 C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.genruntimeconfig.cache
 C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\ref\TestingPlatform.Infrastructure.dll
+C:\Users\omnip\source\repos\TestingPlatform\TestingPlatform.Infrastructure\obj\Debug\net8.0\TestingPlatform.Infrastructure.sourcelink.json

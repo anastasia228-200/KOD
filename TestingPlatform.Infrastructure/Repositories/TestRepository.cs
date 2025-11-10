@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using TestingPlatform.Application.Dtos;
 using TestingPlatform.Application.Interfaces;
 using TestingPlatform.domain.Models;
+using TestingPlatform.Infrastructure.Exceptions;
 
 namespace TestingPlatform.Infrastructure.Repositories;
 
@@ -82,7 +83,7 @@ public class TestRepository(AppDbContext appDbContext, IMapper mapper) : ITestRe
             .FirstOrDefaultAsync(t => t.Id == id);
 
         if (test == null)
-            throw new Exception("Тест не найден");
+            throw new EntityNotFoundException("Тест не найден");
 
         return mapper.Map<TestDto>(test);
     }
@@ -103,7 +104,7 @@ public class TestRepository(AppDbContext appDbContext, IMapper mapper) : ITestRe
         var test = await appDbContext.Tests.FirstOrDefaultAsync(t => t.Id == testDto.Id);
 
         if (test == null)
-            throw new Exception("Тест не найден");
+            throw new EntityNotFoundException("Тест не найден");
 
         test.Title = testDto.Title;
         test.Description = testDto.Description;
